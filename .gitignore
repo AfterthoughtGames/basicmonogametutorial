@@ -1,0 +1,7 @@
+*.xnb
+/bin
+/Content
+/obj
+
+*.user
+*.suo
